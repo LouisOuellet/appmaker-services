@@ -8,7 +8,10 @@
             "raw": "https:\/\/raw.githubusercontent.com\/LouisOuellet\/"
         }
     },
+    "table": [
+        "services"
+    ],
     "name": "services",
-    "build": 13,
+    "build": 14,
     "version": "21.10-dev"
 }
