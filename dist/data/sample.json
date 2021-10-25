@@ -1,3 +1,36 @@
 {
-    "services": []
+    "services": [
+        {
+            "id": 1,
+            "created": "2021-04-30 10:00:23",
+            "modified": "2021-04-30 10:00:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "Brokerage"
+        },
+        {
+            "id": 2,
+            "created": "2021-04-30 10:00:23",
+            "modified": "2021-04-30 10:00:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "Consultation"
+        },
+        {
+            "id": 3,
+            "created": "2021-04-30 10:00:23",
+            "modified": "2021-04-30 10:00:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "Transport"
+        },
+        {
+            "id": 4,
+            "created": "2021-04-30 10:00:23",
+            "modified": "2021-04-30 10:00:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "Logistics"
+        }
+    ]
 }
