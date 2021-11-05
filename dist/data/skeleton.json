@@ -22,15 +22,7 @@
             "modified": "2021-04-30 10:00:23",
             "owner": "1",
             "updated_by": "1",
-            "name": "Transport"
-        },
-        {
-            "id": 4,
-            "created": "2021-04-30 10:00:23",
-            "modified": "2021-04-30 10:00:23",
-            "owner": "1",
-            "updated_by": "1",
-            "name": "Logistics"
+            "name": "Freight"
         }
     ]
 }
